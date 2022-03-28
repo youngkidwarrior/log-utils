@@ -2,7 +2,8 @@
   "name": "vscode-log-utils",
   "displayName": "Log Utils",
   "description": "Help insert and remove log statements",
-  "version": "0.7.0",
+  "icon": "images/log-utils.png",
+  "version": "0.1.0",
   "publisher": "Victor Ginelli (@youngkidwarrior)",
   "repository": "https://github.com/youngkidwarrior/log-utils",
   "engines": {
